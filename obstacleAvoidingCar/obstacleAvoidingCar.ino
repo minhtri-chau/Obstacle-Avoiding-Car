@@ -12,7 +12,7 @@ float distance;
 float lastDistance = 0;
 float distanceDelta; //in centimeters
 float duration;
-int turningDuration = 500; //in miliseconds
+int turningDuration = 250; //in miliseconds
 
 //define pins right wheel
 int motorSpeedPinR = 5;
@@ -73,7 +73,7 @@ void loop() {
   lastDistance = distance;
 
   //backup and turn sequence start when approach obstacle or when the car stop moving (determined by distanceDelta)
-  if (distance <= 20 || distanceDelta <= 0.2) {
+  if (distance <= 20 || (distanceDelta <= 0.2 && distance < 1180)) {
     Serial.print("Approaching obstacle or Car not moving. Starting back up sequence!");
     Serial.print("DistanceDelta: ");
     Serial.println(distanceDelta);   
