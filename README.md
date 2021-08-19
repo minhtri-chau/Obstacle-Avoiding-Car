@@ -14,6 +14,15 @@ Obstacle Avoiding Car (OAC) is a project which uses an Arduino and an ultrasonic
 
 
 # Skills and Concepts Learnt:
-1. Arduino coding: User defined functions, Basic hardware functions in Arduino (pinMode, digitalWrite), If/else statements, Loops.
+1. Arduino coding: 
+- User defined functions
+- Basic hardware functions in Arduino (pinMode, digitalWrite
+- If/else statements
+- Loops
 
-2. Hardware concepts: Breadboards, Arduino Pinouts, Motors and motor drivers, LEDs and resistors, Basic circuit theory.
+2. Hardware concepts: 
+- Breadboards
+- Arduino Pinouts
+- Motors and motor drivers
+- LEDs and resistors
+- Basic circuit theory
