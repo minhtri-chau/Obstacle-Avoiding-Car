@@ -1,1 +1,1 @@
-<img src="/Images/chassis_parts.jpg" alt="Chassis Parts"/>
+<img src="/Images/chassis_parts.jpg" width=100 align=right>/>
