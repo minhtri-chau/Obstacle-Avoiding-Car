@@ -1,4 +1,4 @@
-<img src="/Images/chassis_parts.jpg" width=400 align=right>
+<img src="/Images/chassis_parts.jpg" width=500 align=right>
 
 ## Here are the parts you should have received:
 1x main body
