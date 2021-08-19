@@ -1,6 +1,6 @@
 <img src="/Images/chassis_parts.jpg" width=400 align=right>
 
-<strong>Here are the parts you should have received:</strong>
+<h6>Here are the parts you should have received:</h6>
 <br>1x main body
 <br>2x geared motors (yellow boxes)
 <br>2x wheels
