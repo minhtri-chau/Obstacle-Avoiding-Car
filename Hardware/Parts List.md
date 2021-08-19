@@ -1,4 +1,4 @@
-#Parts List:
+# Parts List:
 
 1. Arduino Uno/Nano
 2. Small breadboard that fits on the chassis
