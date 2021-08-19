@@ -32,4 +32,4 @@ Obstacle Avoiding Car (OAC) is a project which uses an Arduino and an ultrasonic
 
 - `Hardware` contains the parts list, the assembly instructions for constructing the Arudino-based circuit and building the physial chassis for the car.
 - `obstacleAvoidingCar` contains Arduino-specific code for the car.
-- 'Images' contains all the photos related to this projects.
+- `Images` contains all the photos related to this projects.
