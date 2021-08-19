@@ -10,4 +10,4 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Robot Car Chassis Kit (includes two geared motors)</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">5-cell AA battery holder</span></li>
 </ul>
-<p><span style="font-weight: 400;">Most of these parts would be provided by the Robotics Club if you are a member and paid a small fee for the add-ons package for this project. However, if you decide to have your own chassis design for your car, you can do so with a 3D printer.</span></p>
+<p><span style="font-weight: 400;">Most of these parts will be provided by the Robotics Club if you are a member and a small fee is required for the add-ons package for this project. However, if you decide to have your own chassis design for your car, you can do so with a 3D printer.</span></p>
