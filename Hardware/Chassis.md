@@ -2,7 +2,7 @@
 
 Here are the parts you should have received:
 1x main body
-2x geared motors (yellow boxes)
+<br>2x geared motors (yellow boxes)
 2x wheels
 2x speed encoder wheel (small black wheels, not used)
 1x universal wheel (white with silver metal base)
