@@ -144,7 +144,11 @@
 </tbody>
 </table>
 
+
+
 # Connections between the Arduino Uno and the HC-SR04 Ultrasonic Sensor
+
+<img src="/Images/HC-SR04-Ultrasonic-Sensor-Pinout.jpeg" width=450 align=right>
 
 <table style="width: 359px;">
 <tbody>
