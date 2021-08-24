@@ -1,7 +1,7 @@
 # Connections between the motor driver chip L293D and the Arduino/Wheels
 
 <img src="/Images/L293D-Pinout.png" width=500 align=right>
-<img src="/Images/L293D_chip.jpeg" width=400 align=right>
+<img src="/Images/L293D_chip.jpeg" width=450 align=right>
 
 <table style="width: 423px; height: 743px;">
 <tbody>
