@@ -143,3 +143,51 @@
 </tr>
 </tbody>
 </table>
+
+# Connections between the Arduino Uno and the HC-SR04 Ultrasonic Sensor
+
+<table style="width: 359px;">
+<tbody>
+<tr>
+<td style="width: 140.55px; text-align: center;">
+<p><strong>Ultrasonic Sensor</strong></p>
+</td>
+<td style="width: 203.65px; text-align: center;">
+<p><strong>Arduino</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 140.55px; text-align: center;">
+<p><span style="font-weight: 400;">Vcc</span></p>
+</td>
+<td style="width: 203.65px; text-align: center;">
+<p><span style="font-weight: 400;">Vin + Battery Positive End</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 140.55px; text-align: center;">
+<p><span style="font-weight: 400;">Trigger Pin</span></p>
+</td>
+<td style="width: 203.65px; text-align: center;">
+<p><span style="font-weight: 400;">D9</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 140.55px; text-align: center;">
+<p><span style="font-weight: 400;">Echo Pin</span></p>
+</td>
+<td style="width: 203.65px; text-align: center;">
+<p><span style="font-weight: 400;">D10</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 140.55px; text-align: center;">
+<p><span style="font-weight: 400;">Ground</span></p>
+</td>
+<td style="width: 203.65px; text-align: center;">
+<p><span style="font-weight: 400;">Ground</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
