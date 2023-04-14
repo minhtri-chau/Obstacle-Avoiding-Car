@@ -82,7 +82,6 @@ void loop() {
 
   //start the backup and turn sequence
   if (backUpAndTurn){ 
-    //if ((distance >= 30) || ((distance >= 20 && distance <= 30) && (distanceDelta <= 0.5))) 
     //when the car backup long enough and is moving, then the turing sequence starts
     if ((distance >= 30 && distanceDelta > 0.2) || ((distance <= 30) && distanceDelta < 0.2)) {
       //start the turning sequence after the backup sequence or when backing up fails (car not moving)
